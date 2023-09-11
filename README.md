@@ -4,3 +4,7 @@ Bible ram is a project aimed at giving a good user experience when memorizing
 scripture.
 
 The app is (soon) available on the Android, iOS, and F-droid stores.
+
+CLICK THIS LINK to sign up for more information
+
+https://joshministers.eo.page/vwxz1
