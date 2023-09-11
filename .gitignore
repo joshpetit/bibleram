@@ -44,5 +44,6 @@ app.*.map.json
 /android/app/release
 /thing.dart
 /Session.vim
-#lib/hidden_confs.dart
+lib/hidden_confs.dart
 assets/translations/nkjv.db
+/lib/hidden_confs.dart
