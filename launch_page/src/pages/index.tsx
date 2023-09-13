@@ -41,11 +41,13 @@ export default function Home() {
             alt="Get it on Google Play"
           />
         </a>
-        <img
-          className="w-60 px-4"
-          src={"/get_on_apple.svg"}
-          alt="Get it on Google Play"
-        />
+        <a target="_blank" href="https://apps.apple.com/us/app/bible-ram-memorize-scripture/id6450688436">
+          <img
+            className="w-60 px-4"
+            src={"/apple.png"}
+            alt="Get it on the App Store"
+          />
+        </a>
       </div>
     </main>
   );
