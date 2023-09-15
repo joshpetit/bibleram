@@ -11,7 +11,7 @@ CLICK THIS LINK to sign up for more information
 
 [https://joshministers.eo.page/vwxz1](https://play.google.com/store/apps/details?id=app.bibleram)
 
-![App](/app_store/ios_memorizing_se.png | height=400)
+![App](/app_store/ios_memorizing_se.png)
 
 
 
