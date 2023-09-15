@@ -37,7 +37,7 @@ export default function Home() {
         <a href="https://play.google.com/store/apps/details?id=app.bibleram">
           <img
             className="w-60"
-            src={"/get_on_google.svg"}
+            src={"/get_on_google.png"}
             alt="Get it on Google Play"
           />
         </a>
